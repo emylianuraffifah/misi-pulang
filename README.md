@@ -10,7 +10,8 @@ Buka `index.html` dalam Chrome, Edge, Firefox atau Safari yang menyokong WebGL 2
 2. Settings → Pages → Deploy from a branch → main → /(root) → Save.
 3. Tunggu penerbitan GitHub Pages berjaya. Gunakan alamat yang dipaparkan oleh GitHub.
 
-Repositori yang dikenal pasti: https://github.com/emylianur41-ops/misi-pulang-jejak-warisan
+Repositori yang dikenal pasti: https://github.com/emylianuraffifah/misi-pulang
+Status pakej ini: kod siap; belum dimuat naik atau diterbitkan kerana integrasi GitHub menolak akses menulis (403 Resource not accessible by integration).
 
 ## Kandungan
 - `index.html`: edisi kendiri untuk dimainkan dan dihoskan.
@@ -56,4 +57,7 @@ Bulatan objektif, bulatan kaki pemain dan jejak titik dibuang. Panel misi memapa
 
 Muzik latar lo-fi ceria ialah gubahan procedural asal melalui Web Audio (86 BPM, kord lembut, bes, perkusi dan melodi). Bermula selepas butang Mula ditekan, diperlahankan semasa dialog, dimatikan apabila tab tersembunyi. Ikon muzik mengawal muzik dan bunyi ganjaran. Tiada audio luar, CDN atau muat turun tambahan. Semakan automatik meliputi penjadualan muzik, kawalan senyap dan kelantangan dialog. Kualiti audio secara pendengaran serta paparan GPU sebenar belum disahkan.
 
-Kod sumber lengkap dan vendor Three.js terdapat dalam `Misi-Pulang-GitHub-Pages-v4.zip` (folder `source/`).
+## Identiti, zum dan refleksi
+Pemain memasukkan nama panggilan (maksimum 24 aksara) dan memilih Perempuan atau Lelaki. Penampilan pakaian sekolah asal dikekalkan. Butang +/− dan roda tetikus mengawal zum 70–180%; butang peratus menetapkan semula 100%. Dialog empat NPC menggunakan kamera dekat yang lembut serta gerak mulut dan tangan ringkas, tanpa suara latar dialog. Zum pilihan pemain dipulihkan selepas berbual. Penamat merangkum kesan bantuan kepada empat NPC, membolehkan pilihan tekad dan refleksi pilihan tanpa markah, kemudian memaparkan lencana peribadi. Nama dan refleksi tidak dihantar atau disimpan di pelayan.
+
+Laman: https://emylianuraffifah.github.io/misi-pulang/
