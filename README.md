@@ -27,7 +27,7 @@ WASD/anak panah bergerak mengikut arah skrin; klik lantai menggunakan pencarian 
 ## Misi
 Bermula dalam Gua Cahaya selepas prolog, berjalan keluar menuju Jejak 1, bercakap dengan Penjaga Sejarah, baca dua petunjuk, jawab dua soalan NPC tentang tindakan dan sebab tindakan itu penting, kemudian berjalan ke portal. Urutan: Lembah Bujang → Perigi Hang Li Po → Muzium Matang → Bukit Malawati → pulang ke lawatan sekolah.
 
-Petunjuk memberi 10 mata, setiap jawapan betul memberi 50 mata (dua soalan setiap misi). Maksimum 480 mata. Bacaan berulang tidak menggandakan ganjaran. Jawapan salah boleh dicuba semula tanpa penalti. Markah untuk motivasi dan latihan, bukan pentaksiran rasmi. Kemajuan hanya untuk sesi semasa; muat semula mengosongkannya.
+Petunjuk memberi 10 mata, setiap jawapan betul memberi 50 mata (dua soalan setiap misi). Maksimum 480 mata. Bacaan berulang tidak menggandakan ganjaran. Jawapan salah menolak 10 mata (minimum 0); jawapan betul memberi 50 mata sekali sahaja bagi setiap soalan. Markah untuk motivasi dan latihan, bukan pentaksiran rasmi. Kemajuan hanya untuk sesi semasa; muat semula mengosongkannya.
 
 ## Fakta dan rekaan
 Nama lokasi dan fakta ringkas berpandukan Jabatan Muzium Malaysia serta Tourism Malaysia; pautan sumber ada dalam jurnal. Portal, perjalanan masa, watak dan dialog ialah rekaan. Model bangunan dan ilustrasi Ngah Ibrahim ialah gambaran ringkas, bukan rekonstruksi tepat atau foto tokoh. Kisah Hang Li Po dinyatakan sebagai cerita tradisi, bukan semua butirannya dianggap fakta terbukti.
@@ -64,3 +64,6 @@ Laman: https://emylianuraffifah.github.io/misi-pulang/
 
 ## Paparan tanpa skrol dan panduan buku teks
 Gua mempunyai bahagian hadapan dan sisi kamera yang terbuka; batu melintang dan bumbung dibuang supaya Penjaga Sejarah jelas kelihatan. Semakan raycast mengesahkan muka dan badan tidak terlindung pada tiga sudut kamera. Dialog panjang dibahagikan kepada halaman dengan Kembali/Seterusnya; butang asal dan jawapan kekal berfungsi. Skrin mula dipadatkan dan menggunakan dua lajur pada skrin mendatar pendek. Penamat dipisahkan kepada pengajaran, pilihan tekad dan perasaan/sebab. Pilihan perasaan: bangga, cinta akan negara, bersyukur, terharu atau perasaan lain. Istilah permainan menggunakan tempat bersejarah dan Jejak Sejarah. Kandungan disesuaikan dengan aktiviti buku teks yang diberikan pengguna, bukan petikan jawapan buku teks.
+
+## Dunia interaktif dan bunyi
+Arjun menggantikan Amir. Penjaga Sejarah berada di hadapan pintu gua; bentuk gerbang batu dipulihkan dan batu hadapan menjadi lut sinar apabila pemain masih di dalam. E membolehkan pemain mengutip kertas, memasukkannya ke tong sampah, duduk/bangun dari bangku dan menaikkan Jalur Gemilang. Interaksi sampingan tidak memberi mata. Tepukan procedural dimainkan untuk jawapan betul; bunyi halaman, kutipan, tong sampah, portal, lompat dan jawapan salah ditambah. Ikon muzik turut mematikan kesan bunyi. Ikrar bersama merangkumi semua amalan, kemudian murid menyatakan perasaan dan sebab.
