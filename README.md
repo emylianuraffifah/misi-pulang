@@ -67,3 +67,6 @@ Gua mempunyai bahagian hadapan dan sisi kamera yang terbuka; batu melintang dan 
 
 ## Dunia interaktif dan bunyi
 Arjun menggantikan Amir. Penjaga Sejarah berada di hadapan pintu gua; bentuk gerbang batu dipulihkan dan batu hadapan menjadi lut sinar apabila pemain masih di dalam. E membolehkan pemain mengutip kertas, memasukkannya ke tong sampah, duduk/bangun dari bangku dan menaikkan Jalur Gemilang. Interaksi sampingan tidak memberi mata. Tepukan procedural dimainkan untuk jawapan betul; bunyi halaman, kutipan, tong sampah, portal, lompat dan jawapan salah ditambah. Ikon muzik turut mematikan kesan bunyi. Ikrar bersama merangkumi semua amalan, kemudian murid menyatakan perasaan dan sebab.
+
+## Sekolah, haiwan dan refleksi pelbagai perasaan
+Bumbung sekolah kini dua cerun rendah, dengan papan nama, pintu dan tingkap jelas. Arnab, burung, kucing, tupai dan anjing muncul mengikut lokasi; haiwan bergerak perlahan dan boleh didekati menggunakan E untuk mendapat respons. Kesan tepukan jawapan betul diperhalus menjadi beberapa tepukan lembut bersama nada kejayaan. Ikrar memberi pilihan bersedia atau mencuba sedikit demi sedikit, kemudian membolehkan murid memilih beberapa perasaan (bangga, gembira, sayang, sedih, kecewa) dan menyatakan sebabnya. Refleksi tidak dinilai sebagai betul atau salah.
