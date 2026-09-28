@@ -11,7 +11,7 @@ Buka `index.html` dalam Chrome, Edge, Firefox atau Safari yang menyokong WebGL 2
 3. Tunggu penerbitan GitHub Pages berjaya. Gunakan alamat yang dipaparkan oleh GitHub.
 
 Repositori yang dikenal pasti: https://github.com/emylianuraffifah/misi-pulang
-Status pakej ini: kod siap; belum dimuat naik atau diterbitkan kerana integrasi GitHub menolak akses menulis (403 Resource not accessible by integration).
+Laman permainan diterbitkan melalui GitHub Pages.
 
 ## Kandungan
 - `index.html`: edisi kendiri untuk dimainkan dan dihoskan.
@@ -61,3 +61,6 @@ Muzik latar lo-fi ceria ialah gubahan procedural asal melalui Web Audio (86 BPM,
 Pemain memasukkan nama panggilan (maksimum 24 aksara) dan memilih Perempuan atau Lelaki. Penampilan pakaian sekolah asal dikekalkan. Butang +/− dan roda tetikus mengawal zum 70–180%; butang peratus menetapkan semula 100%. Dialog empat NPC menggunakan kamera dekat yang lembut serta gerak mulut dan tangan ringkas, tanpa suara latar dialog. Zum pilihan pemain dipulihkan selepas berbual. Penamat merangkum kesan bantuan kepada empat NPC, membolehkan pilihan tekad dan refleksi pilihan tanpa markah, kemudian memaparkan lencana peribadi. Nama dan refleksi tidak dihantar atau disimpan di pelayan.
 
 Laman: https://emylianuraffifah.github.io/misi-pulang/
+
+## Paparan tanpa skrol dan panduan buku teks
+Gua mempunyai bahagian hadapan dan sisi kamera yang terbuka; batu melintang dan bumbung dibuang supaya Penjaga Sejarah jelas kelihatan. Semakan raycast mengesahkan muka dan badan tidak terlindung pada tiga sudut kamera. Dialog panjang dibahagikan kepada halaman dengan Kembali/Seterusnya; butang asal dan jawapan kekal berfungsi. Skrin mula dipadatkan dan menggunakan dua lajur pada skrin mendatar pendek. Penamat dipisahkan kepada pengajaran, pilihan tekad dan perasaan/sebab. Pilihan perasaan: bangga, cinta akan negara, bersyukur, terharu atau perasaan lain. Istilah permainan menggunakan tempat bersejarah dan Jejak Sejarah. Kandungan disesuaikan dengan aktiviti buku teks yang diberikan pengguna, bukan petikan jawapan buku teks.
