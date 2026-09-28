@@ -70,3 +70,6 @@ Arjun menggantikan Amir. Penjaga Sejarah berada di hadapan pintu gua; bentuk ger
 
 ## Sekolah, haiwan dan refleksi pelbagai perasaan
 Bumbung sekolah kini dua cerun rendah, dengan papan nama, pintu dan tingkap jelas. Arnab, burung, kucing, tupai dan anjing muncul mengikut lokasi; haiwan bergerak perlahan dan boleh didekati menggunakan E untuk mendapat respons. Kesan tepukan jawapan betul diperhalus menjadi beberapa tepukan lembut bersama nada kejayaan. Ikrar memberi pilihan bersedia atau mencuba sedikit demi sedikit, kemudian membolehkan murid memilih beberapa perasaan (bangga, gembira, sayang, sedih, kecewa) dan menyatakan sebabnya. Refleksi tidak dinilai sebagai betul atau salah.
+
+## Habitat dan bacaan dialog
+Burung bertenggek pada dahan; arnab di sisi kayu tumbang; tupai pada tunggul berhampiran pokok. Tepukan berlapis lebih gemuruh tanpa nada kejayaan. Butang suara di setiap dialog mengawal bacaan prolog dan teks dalam Bahasa Melayu menggunakan SpeechSynthesis dan suara ms-MY/ms yang tersedia pada peranti. Suara dimatikan pada awal sesi dan dihentikan apabila dialog bertukar, ditutup atau tab disembunyikan. Peranti tanpa suara Melayu memaparkan pemberitahuan; tiada penggantian dengan sebutan bahasa lain. Sesetengah suara peranti memerlukan sambungan internet.
